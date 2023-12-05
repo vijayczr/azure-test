@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5KJqtXTAj3gECmXLpDNEtk7KPBUrtHvvIQJI0ghKz1g=",
+  "Source": "azure deploy test",
+  "BasePath": "_content/azure deploy test",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

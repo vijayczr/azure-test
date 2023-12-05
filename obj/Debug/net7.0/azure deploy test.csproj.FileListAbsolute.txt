@@ -1,0 +1,33 @@
+D:\VJ_Projects\azure deploy test\bin\Debug\net7.0\appsettings.Development.json
+D:\VJ_Projects\azure deploy test\bin\Debug\net7.0\appsettings.json
+D:\VJ_Projects\azure deploy test\bin\Debug\net7.0\azure deploy test.exe
+D:\VJ_Projects\azure deploy test\bin\Debug\net7.0\azure deploy test.deps.json
+D:\VJ_Projects\azure deploy test\bin\Debug\net7.0\azure deploy test.runtimeconfig.json
+D:\VJ_Projects\azure deploy test\bin\Debug\net7.0\azure deploy test.dll
+D:\VJ_Projects\azure deploy test\bin\Debug\net7.0\azure deploy test.pdb
+D:\VJ_Projects\azure deploy test\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\VJ_Projects\azure deploy test\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\VJ_Projects\azure deploy test\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\VJ_Projects\azure deploy test\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\VJ_Projects\azure deploy test\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\VJ_Projects\azure deploy test\obj\Debug\net7.0\azure deploy test.csproj.AssemblyReference.cache
+D:\VJ_Projects\azure deploy test\obj\Debug\net7.0\azure deploy test.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJ_Projects\azure deploy test\obj\Debug\net7.0\azure deploy test.AssemblyInfoInputs.cache
+D:\VJ_Projects\azure deploy test\obj\Debug\net7.0\azure deploy test.AssemblyInfo.cs
+D:\VJ_Projects\azure deploy test\obj\Debug\net7.0\azure deploy test.csproj.CoreCompileInputs.cache
+D:\VJ_Projects\azure deploy test\obj\Debug\net7.0\azure deploy test.MvcApplicationPartsAssemblyInfo.cs
+D:\VJ_Projects\azure deploy test\obj\Debug\net7.0\azure deploy test.MvcApplicationPartsAssemblyInfo.cache
+D:\VJ_Projects\azure deploy test\obj\Debug\net7.0\staticwebassets\msbuild.azure deploy test.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VJ_Projects\azure deploy test\obj\Debug\net7.0\staticwebassets\msbuild.build.azure deploy test.props
+D:\VJ_Projects\azure deploy test\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.azure deploy test.props
+D:\VJ_Projects\azure deploy test\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.azure deploy test.props
+D:\VJ_Projects\azure deploy test\obj\Debug\net7.0\staticwebassets.pack.json
+D:\VJ_Projects\azure deploy test\obj\Debug\net7.0\staticwebassets.build.json
+D:\VJ_Projects\azure deploy test\obj\Debug\net7.0\staticwebassets.development.json
+D:\VJ_Projects\azure deploy test\obj\Debug\net7.0\scopedcss\bundle\azure deploy test.styles.css
+D:\VJ_Projects\azure deploy test\obj\Debug\net7.0\azure deploy test.csproj.CopyComplete
+D:\VJ_Projects\azure deploy test\obj\Debug\net7.0\azure deploy test.dll
+D:\VJ_Projects\azure deploy test\obj\Debug\net7.0\refint\azure deploy test.dll
+D:\VJ_Projects\azure deploy test\obj\Debug\net7.0\azure deploy test.pdb
+D:\VJ_Projects\azure deploy test\obj\Debug\net7.0\azure deploy test.genruntimeconfig.cache
+D:\VJ_Projects\azure deploy test\obj\Debug\net7.0\ref\azure deploy test.dll

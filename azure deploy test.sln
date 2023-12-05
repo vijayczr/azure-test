@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azure deploy test", "azure deploy test.csproj", "{DFA8C84E-64E3-4EBD-9E43-7B99D1CDD22B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFA8C84E-64E3-4EBD-9E43-7B99D1CDD22B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA8C84E-64E3-4EBD-9E43-7B99D1CDD22B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA8C84E-64E3-4EBD-9E43-7B99D1CDD22B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA8C84E-64E3-4EBD-9E43-7B99D1CDD22B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE438ECD-60CA-4D48-8B20-0846660F9610}
+	EndGlobalSection
+EndGlobal
